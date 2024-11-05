@@ -48,6 +48,8 @@ I have a fable for computers, robotics, and electronics.
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 </p>
 
+<a href="https://app.daily.dev/samidare"><img src="https://api.daily.dev/devcards/v2/SX8CjUxA8pu4HwA8pd9Re.png?type=wide&r=qgr" width="652" alt="Samidare's Dev Card"/></a>
+
 ### Socials
 <p align="left"> 
 <a href="https://www.github.com/samidare-co" target="_blank" rel="noreferrer"> 
