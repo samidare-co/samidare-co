@@ -94,40 +94,8 @@ ACCENT_2:        #AE98A0  (Mauve)
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AWS-F7B189?style=for-the-badge&logo=amazonaws&logoColor=0B2436" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AWS-F7B189?style=for-the-badge&logo=amazonaws&logoColor=0B2436" /><img src="https://img.shields.io/badge/AWS-F7B189?style=for-the-badge&logo=amazonaws&logoColor=0B2436" alt="AWS" /></picture>
 </p>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🔗_Connect_with_me-206A85?style=flat" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🔗_Connect_with_me-206A85?style=flat" /><img src="https://img.shields.io/badge/🔗_Connect_with_me-206A85?style=flat" /></picture>
-
-<p>
-  <a href="https://github.com/samidare-co" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-206A85?style=for-the-badge&logo=github&logoColor=F7B189" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-206A85?style=for-the-badge&logo=github&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/GitHub-206A85?style=for-the-badge&logo=github&logoColor=F7B189" alt="GitHub" />
-    </picture>
-  </a>&nbsp;
-  <a href="http://samidare.co" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-F7B189?style=for-the-badge&logo=safari&logoColor=0B2436" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-F7B189?style=for-the-badge&logo=safari&logoColor=0B2436" />
-      <img src="https://img.shields.io/badge/Portfolio-F7B189?style=for-the-badge&logo=safari&logoColor=0B2436" alt="Portfolio" />
-    </picture>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/sami-b-465a5b279/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-206A85?style=for-the-badge&logo=linkedin&logoColor=F7B189" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-206A85?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/LinkedIn-206A85?style=for-the-badge&logo=linkedin&logoColor=F7B189" alt="LinkedIn" />
-    </picture>
-  </a>&nbsp;
-  <a href="mailto:samidare@tutanota.com" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-F7B189?style=for-the-badge&logo=gmail&logoColor=0B2436" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-F7B189?style=for-the-badge&logo=gmail&logoColor=0B2436" />
-      <img src="https://img.shields.io/badge/Email-F7B189?style=for-the-badge&logo=gmail&logoColor=0B2436" alt="Email" />
-    </picture>
-  </a>
-</p>
-
 </td>
+
 <td width="40%" valign="top">
 
 <a href="https://app.daily.dev/samidare">
@@ -146,7 +114,7 @@ ACCENT_2:        #AE98A0  (Mauve)
 <tr>
 
 ```zsh
-> neofetch
+> fastfetch
 ```
 
 <td valign="top">
@@ -197,6 +165,41 @@ Fav. Softwares: Anki, Neovim, Tmux, Obsidian, Yazi, tdf,
 </td>
 </tr>
 </table>
+
+---
+
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🔗_Connect_with_me-206A85?style=flat" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🔗_Connect_with_me-206A85?style=flat" /><img src="https://img.shields.io/badge/🔗_Connect_with_me-206A85?style=flat" /></picture>
+
+<p>
+  <a href="https://github.com/samidare-co" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-206A85?style=for-the-badge&logo=github&logoColor=F7B189" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-206A85?style=for-the-badge&logo=github&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/GitHub-206A85?style=for-the-badge&logo=github&logoColor=F7B189" alt="GitHub" />
+    </picture>
+  </a>&nbsp;
+  <a href="http://samidare.co" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-F7B189?style=for-the-badge&logo=safari&logoColor=0B2436" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-F7B189?style=for-the-badge&logo=safari&logoColor=0B2436" />
+      <img src="https://img.shields.io/badge/Portfolio-F7B189?style=for-the-badge&logo=safari&logoColor=0B2436" alt="Portfolio" />
+    </picture>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/sami-b-465a5b279/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-206A85?style=for-the-badge&logo=linkedin&logoColor=F7B189" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-206A85?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/LinkedIn-206A85?style=for-the-badge&logo=linkedin&logoColor=F7B189" alt="LinkedIn" />
+    </picture>
+  </a>&nbsp;
+  <a href="mailto:samidare@tutanota.com" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-F7B189?style=for-the-badge&logo=gmail&logoColor=0B2436" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-F7B189?style=for-the-badge&logo=gmail&logoColor=0B2436" />
+      <img src="https://img.shields.io/badge/Email-F7B189?style=for-the-badge&logo=gmail&logoColor=0B2436" alt="Email" />
+    </picture>
+  </a>
+</p>
 
 ---
 
