@@ -134,8 +134,7 @@ DE/Compositors: Quartz, Picom, Cosmic, KDE, Tmux
 Shell: zsh 5.9
 IP: 192.168.1.42/24
 Location: Paris, France
-Education: Sorbonne Universite, Universite de Paris, 
-          Helsinki University, EIDD
+Education: Sorbonne Universite, Universite de Paris, Helsinki University, EIDD
 Learning: Rust, GraphQL, Simulink, Graph Databases (neo4j), Swift
 Interest: Botany, Coding, Electronics, Cybernetics (AI, Information Theory,
          Telecommunications), Robotics, Science, Philosophy (Pythagoreanism,
