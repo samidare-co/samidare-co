@@ -1,3 +1,5 @@
+[![](./images/header2.jpg)](#)
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sami
 
 ### Embedded Systems Engineering student
@@ -6,9 +8,22 @@ I have a fable for computers, robotics, and electronics.
 * 🖥️ See my portfolio at [Portfolio](http://samidare.co)  
 * ✉️ You can contact me at [samidare@tutanota.com](mailto:samidare@tutanota.com)
 
-### Skills
 
-<p align="left">
+
+
+<a href="https://app.daily.dev/samidare"><img align='right' src="https://api.daily.dev/devcards/v2/SX8CjUxA8pu4HwA8pd9Re.png?type=default&r=wxr" width="350" alt="Samidare's Dev Card"/></a>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=27&duration=2800&pause=2000&color=111111&width=600&height=50&lines=Hey%2C+I'm+Sami+Welcome+to+my+Profile!"  alt="Hey, I'm Sami Welcome to my Profile! animated typed out">
+
+
+* 🌳 Embedded Systems Engineering student, I have a fable for computers, robotics, and electronics
+
+* 🐾 I’m looking to learn, network and make friends here! <br><br>
+
+* 🌊 2026 Goals: Graduate and contribute more to Open Source projects <br><br>
+
+* ☕ Skills: <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -48,7 +63,36 @@ I have a fable for computers, robotics, and electronics.
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 </p>
 
-<a href="https://app.daily.dev/samidare"><img src="https://api.daily.dev/devcards/v2/SX8CjUxA8pu4HwA8pd9Re.png?type=wide&r=qgr" width="652" alt="Samidare's Dev Card"/></a>
+* <div style="display:flex;"> <p align="left" style="color:#cdd6f4; display:inline;">Connect with me:</p>
+  <a href="https://www.youtube.com/c/ahmadmatar7549" target="_blank">
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/youtube.png" media="(prefers-color-scheme: light)" />
+      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/youtube.png" media="(prefers-color-scheme: dark)" />
+      <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/youtube.png" alt="ahmadmatar7549" width="50" height="50" />
+    </picture>
+  </a>
+  <a href="https://www.leetcode.com/ahmad-mtr" target="_blank">
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/leetcode.png" media="(prefers-color-scheme: light)" />
+      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/leetcode.png" media="(prefers-color-scheme: dark)" />
+      <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/leetcode.png" alt="Leetcode: @ahmad-mtr" width="50" height="50" />
+    </picture>
+  </a>
+  <a href="https://discord.com/invite/RfPGNQfG" target="_blank">
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/discord.png" media="(prefers-color-scheme: light)" />
+      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/discord.png" media="(prefers-color-scheme: dark)" />
+      <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/discord.png" alt="AhmadMtr#3611" width="50" height="50" />
+    </picture>
+  </a>
+  <a href="https://t.me/AhmadMtr" target="_blank">
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/telegram.png" media="(prefers-color-scheme: light)" />
+      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/telegram.png" media="(prefers-color-scheme: dark)" />
+      <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/telegram.png" alt="telegram: @AhmadMtr" width="50" height="50" />
+    </picture>
+  </a>
+ </div>
 
 ### Socials
 <p align="left"> 
@@ -68,11 +112,56 @@ I have a fable for computers, robotics, and electronics.
 </a>
 </p>
 
+
+
+
+
+```zsh
+> fastfetch
+```
+
+<img align="left" src="images/30.png" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="280" /> 
+
+```csharp
+samidare-co@github
+-------------------------
+OS: MacOS, Arch, Debian, Alpine, Fedora, Rocky, Windows\
+Ubuntu Touch, LineageOS, postmarketOS, e/OS, CalyxOS 
+WM: Hammerspoon, Hyprland, Niri, Sway, BSPWM, DKWM, Komorebi
+DE/Compositors: Quartz, Picom, Cosmic, KDE, Tmux
+Shell: zsh 5.9
+IP: 192.168.1.42/24
+Location: Paris, France
+Education: Sorbonne Universite, Universite de Paris, Helsinki University, EIDD
+Languages: JavaScript, TypeScript,
+Learning: Rust, GraphQL, Simulink, Graph Databases (neo4j), Swift
+Interest: Botany, Coding, Electronics, Cybernetics (AI, Information Theory Telecommunications)
+Robotics, Science, Philosophy (Pythagoreanism, Stoicism, Taoism), Productivity and Automation.
+Hobbies: Sport, Anime, Board Games, Reading, and Language Learning. <br><br>
+Favorite Softwares: Anki, Neovim, Tmux, Obsidian, Yazi, tdf, ImageMagick, ffmpeg, MPV, Zeal 
+Davinci Resolve, AE, Photoshop, ripgrep, clipboard, scrcpy, Yomitan, SurfingKeys, Playwright
+Kanata, warpd, DBeaver, rsync, rclone, 7zip, Ghidra, Qemu, Double Commander, mise, chezmoi
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+</p>
+
+
 **My GitHub Stats**
+
+ <img src="https://github-profile-trophy.vercel.app/?username=samidare-co&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samidare-co&layout=compact)
 
 <a href="http://www.github.com/samidare-co"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samidare-co&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![stats][]
-Stats by [tipsy/profile-summary-for-github][]
 
-
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=samidare-co&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=samidare-co&theme=dracula&hide_border=true&bg_color=eff1f5&color=4c4f69&title_color=8839ef&line=04a5e5&%0D%0Apoint=7287fd&area=true&area_color=04a5e5" />
+	  <img alt="github profile contributions Graph"    src="https://github-readme-activity-graph.vercel.app/graph?username=samidare-co&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
+	</picture>
+</p>
