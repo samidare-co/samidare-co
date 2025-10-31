@@ -117,7 +117,7 @@ ACCENT_2:        #AE98A0  (Mauve)
 > fastfetch
 ```
 
-<td width="400" valign="top">
+<td width="800" valign="top">
 
 <img src="images/30.png" alt="Character" width="100%" />
 
