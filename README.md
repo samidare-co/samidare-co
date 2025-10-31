@@ -16,7 +16,7 @@ ACCENT_2:        #AE98A0  (Mauve)
 </div>
 
 <h1 align="center">
-  <b>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" height="30px"> I'm Sami</b>
+  <b>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" height="30px"> I'm Sami, Thanks for passing by!</b>
 </h1>
 
 <h3 align="center">
@@ -136,19 +136,19 @@ IP: 192.168.1.42/24
 Location: Paris, France
 Education: Sorbonne Universite, Universite de Paris, 
           Helsinki University, EIDD
-Languages: JavaScript, TypeScript
 Learning: Rust, GraphQL, Simulink, Graph Databases (neo4j), Swift
 Interest: Botany, Coding, Electronics, Cybernetics 
          (AI, Information Theory, Telecommunications), Robotics, 
          Science, Philosophy (Pythagoreanism, Stoicism, Taoism), 
          Productivity and Automation
 Hobbies: Sport, Anime, Board Games, Reading, Language Learning
-Fav. Softwares: Anki, Neovim, Tmux, Obsidian, Yazi, tdf, 
-                ImageMagick, ffmpeg, MPV, Zeal, Davinci Resolve, 
-                AE, Photoshop, ripgrep, clipboard, scrcpy, Yomitan, 
-                SurfingKeys, Playwright, Kanata, warpd, DBeaver, 
-                rsync, rclone, 7zip, Ghidra, Qemu, Double Commander, 
-                mise, chezmoi
+❤️ Languages: C++, TypeScript
+❤️ Softwares: Anki, Neovim, Tmux, Obsidian, Yazi, tdf, 
+              ImageMagick, ffmpeg, MPV, Zeal, Davinci Resolve, 
+              AE, Photoshop, ripgrep, clipboard, scrcpy, Yomitan, 
+              SurfingKeys, Playwright, Kanata, warpd, DBeaver, 
+              rsync, rclone, 7zip, Ghidra, Qemu, Double Commander, 
+              mise, chezmoi
 ```
 
 <p align="left">
