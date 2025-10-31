@@ -1,167 +1,233 @@
-[![](./images/header2.jpg)](#)
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sami
+<div align="center">
+  <img src="./images/header2.jpg" width="100%" alt="Header" />
+</div>
 
-### Embedded Systems Engineering student
-I have a fable for computers, robotics, and electronics.  
-* 🌍 I'm based in Paris  
-* 🖥️ See my portfolio at [Portfolio](http://samidare.co)  
-* ✉️ You can contact me at [samidare@tutanota.com](mailto:samidare@tutanota.com)
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1000&pause=1000&color=F7B189&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Sami" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1000&pause=1000&color=0B2436&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Sami" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1000&pause=1000&color=F7B189&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Sami" alt="Typing SVG" />
+  </picture>
+</h1>
 
+<h3 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Embedded_Systems_Engineering_Student-206A85?style=for-the-badge" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Embedded_Systems_Engineering_Student-6B6A84?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Embedded_Systems_Engineering_Student-206A85?style=for-the-badge" alt="Title" />
+  </picture>
+</h3>
 
-
-
-<a href="https://app.daily.dev/samidare"><img align='right' src="https://api.daily.dev/devcards/v2/SX8CjUxA8pu4HwA8pd9Re.png?type=default&r=wxr" width="350" alt="Samidare's Dev Card"/></a>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=27&duration=2800&pause=2000&color=111111&width=600&height=50&lines=Hey%2C+I'm+Sami+Welcome+to+my+Profile!"  alt="Hey, I'm Sami Welcome to my Profile! animated typed out">
-
-
-* 🌳 Embedded Systems Engineering student, I have a fable for computers, robotics, and electronics
-
-* 🐾 I’m looking to learn, network and make friends here! <br><br>
-
-* 🌊 2026 Goals: Graduate and contribute more to Open Source projects <br><br>
-
-* ☕ Skills: <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a>
-<a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
-<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🌍_Based_in-Paris-CA8090?style=flat-square" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🌍_Based_in-Paris-AE98A0?style=flat-square" />
+    <img src="https://img.shields.io/badge/🌍_Based_in-Paris-CA8090?style=flat-square" alt="Location" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🖥️-Portfolio-206A85?style=flat-square" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🖥️-Portfolio-6B6A84?style=flat-square" />
+    <img src="https://img.shields.io/badge/🖥️-Portfolio-206A85?style=flat-square" alt="Portfolio Link" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/✉️-Contact-F7B189?style=flat-square" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/✉️-Contact-CA8090?style=flat-square" />
+    <img src="https://img.shields.io/badge/✉️-Contact-F7B189?style=flat-square" alt="Email" />
+  </picture>
 </p>
 
-* <div style="display:flex;"> <p align="left" style="color:#cdd6f4; display:inline;">Connect with me:</p>
-  <a href="https://www.youtube.com/c/ahmadmatar7549" target="_blank">
-    <picture>
-      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/youtube.png" media="(prefers-color-scheme: light)" />
-      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/youtube.png" media="(prefers-color-scheme: dark)" />
-      <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/youtube.png" alt="ahmadmatar7549" width="50" height="50" />
-    </picture>
-  </a>
-  <a href="https://www.leetcode.com/ahmad-mtr" target="_blank">
-    <picture>
-      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/leetcode.png" media="(prefers-color-scheme: light)" />
-      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/leetcode.png" media="(prefers-color-scheme: dark)" />
-      <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/leetcode.png" alt="Leetcode: @ahmad-mtr" width="50" height="50" />
-    </picture>
-  </a>
-  <a href="https://discord.com/invite/RfPGNQfG" target="_blank">
-    <picture>
-      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/discord.png" media="(prefers-color-scheme: light)" />
-      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/discord.png" media="(prefers-color-scheme: dark)" />
-      <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/discord.png" alt="AhmadMtr#3611" width="50" height="50" />
-    </picture>
-  </a>
-  <a href="https://t.me/AhmadMtr" target="_blank">
-    <picture>
-      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/light/telegram.png" media="(prefers-color-scheme: light)" />
-      <source srcset="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/telegram.png" media="(prefers-color-scheme: dark)" />
-      <img src="https://raw.githubusercontent.com/Ahmad-Mtr/Ahmad-Mtr/main/assets/dark/telegram.png" alt="telegram: @AhmadMtr" width="50" height="50" />
-    </picture>
-  </a>
- </div>
+---
 
-### Socials
-<p align="left"> 
-<a href="https://www.github.com/samidare-co" target="_blank" rel="noreferrer"> 
-    <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    </picture> 
-</a> 
-<a href="https://www.linkedin.com/in/sami-b-465a5b279/" target="_blank" rel="noreferrer"> 
-    <picture> 
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture> 
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&size=27&duration=2800&pause=2000&color=F7B189&width=420&height=50&lines=Hey%2C+I'm+Sami!+Welcome+to+my+Profile!" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&size=27&duration=2800&pause=2000&color=0B2436&width=600&height=50&lines=Hey%2C+I'm+Sami!+Welcome+to+my+Profile!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=27&duration=2800&pause=2000&color=F7B189&width=420&height=50&lines=Hey%2C+I'm+Sami!+Welcome+to+my+Profile!" alt="Typing animation">
+</picture>
+
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🌳_About_Me-206A85?style=flat" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🌳_About_Me-6B6A84?style=flat" /><img src="https://img.shields.io/badge/🌳_About_Me-206A85?style=flat" /></picture>
+
+- Embedded Systems Engineering student with a passion for computers, robotics, and electronics
+- 🐾 Looking to learn, network, and make friends here!
+- 🌊 **2026 Goals:** Graduate and contribute more to Open Source projects
+
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/☕_Skills-CA8090?style=flat" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/☕_Skills-AE98A0?style=flat" /><img src="https://img.shields.io/badge/☕_Skills-CA8090?style=flat" /></picture>
+
+<p align="left">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C-0B2436?style=for-the-badge&logo=c&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C-AE98A0?style=for-the-badge&logo=c&logoColor=0B2436" /><img src="https://img.shields.io/badge/C-0B2436?style=for-the-badge&logo=c&logoColor=F7B189" alt="C" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C++-206A85?style=for-the-badge&logo=cplusplus&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C++-6B6A84?style=for-the-badge&logo=cplusplus&logoColor=0B2436" /><img src="https://img.shields.io/badge/C++-206A85?style=for-the-badge&logo=cplusplus&logoColor=F7B189" alt="C++" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-CA8090?style=for-the-badge&logo=oracle&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-AE98A0?style=for-the-badge&logo=oracle&logoColor=0B2436" /><img src="https://img.shields.io/badge/Java-CA8090?style=for-the-badge&logo=oracle&logoColor=F7B189" alt="Java" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-0B2436?style=for-the-badge&logo=javascript&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-6B6A84?style=for-the-badge&logo=javascript&logoColor=0B2436" /><img src="https://img.shields.io/badge/JavaScript-0B2436?style=for-the-badge&logo=javascript&logoColor=F7B189" alt="JavaScript" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-206A85?style=for-the-badge&logo=typescript&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-AE98A0?style=for-the-badge&logo=typescript&logoColor=0B2436" /><img src="https://img.shields.io/badge/TypeScript-206A85?style=for-the-badge&logo=typescript&logoColor=F7B189" alt="TypeScript" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-CA8090?style=for-the-badge&logo=python&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-6B6A84?style=for-the-badge&logo=python&logoColor=0B2436" /><img src="https://img.shields.io/badge/Python-CA8090?style=for-the-badge&logo=python&logoColor=F7B189" alt="Python" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PHP-0B2436?style=for-the-badge&logo=php&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PHP-AE98A0?style=for-the-badge&logo=php&logoColor=0B2436" /><img src="https://img.shields.io/badge/PHP-0B2436?style=for-the-badge&logo=php&logoColor=F7B189" alt="PHP" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-206A85?style=for-the-badge&logo=react&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-6B6A84?style=for-the-badge&logo=react&logoColor=0B2436" /><img src="https://img.shields.io/badge/React-206A85?style=for-the-badge&logo=react&logoColor=F7B189" alt="React" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-CA8090?style=for-the-badge&logo=nextdotjs&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Next.js-AE98A0?style=for-the-badge&logo=nextdotjs&logoColor=0B2436" /><img src="https://img.shields.io/badge/Next.js-CA8090?style=for-the-badge&logo=nextdotjs&logoColor=F7B189" alt="Next.js" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-0B2436?style=for-the-badge&logo=nodedotjs&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Node.js-6B6A84?style=for-the-badge&logo=nodedotjs&logoColor=0B2436" /><img src="https://img.shields.io/badge/Node.js-0B2436?style=for-the-badge&logo=nodedotjs&logoColor=F7B189" alt="Node.js" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind-206A85?style=for-the-badge&logo=tailwindcss&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tailwind-AE98A0?style=for-the-badge&logo=tailwindcss&logoColor=0B2436" /><img src="https://img.shields.io/badge/Tailwind-206A85?style=for-the-badge&logo=tailwindcss&logoColor=F7B189" alt="Tailwind" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-CA8090?style=for-the-badge&logo=postgresql&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PostgreSQL-6B6A84?style=for-the-badge&logo=postgresql&logoColor=0B2436" /><img src="https://img.shields.io/badge/PostgreSQL-CA8090?style=for-the-badge&logo=postgresql&logoColor=F7B189" alt="PostgreSQL" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-0B2436?style=for-the-badge&logo=mongodb&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MongoDB-AE98A0?style=for-the-badge&logo=mongodb&logoColor=0B2436" /><img src="https://img.shields.io/badge/MongoDB-0B2436?style=for-the-badge&logo=mongodb&logoColor=F7B189" alt="MongoDB" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-206A85?style=for-the-badge&logo=docker&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-6B6A84?style=for-the-badge&logo=docker&logoColor=0B2436" /><img src="https://img.shields.io/badge/Docker-206A85?style=for-the-badge&logo=docker&logoColor=F7B189" alt="Docker" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-CA8090?style=for-the-badge&logo=git&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-AE98A0?style=for-the-badge&logo=git&logoColor=0B2436" /><img src="https://img.shields.io/badge/Git-CA8090?style=for-the-badge&logo=git&logoColor=F7B189" alt="Git" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Neovim-0B2436?style=for-the-badge&logo=neovim&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Neovim-6B6A84?style=for-the-badge&logo=neovim&logoColor=0B2436" /><img src="https://img.shields.io/badge/Neovim-0B2436?style=for-the-badge&logo=neovim&logoColor=F7B189" alt="Neovim" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linux-206A85?style=for-the-badge&logo=linux&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Linux-AE98A0?style=for-the-badge&logo=linux&logoColor=0B2436" /><img src="https://img.shields.io/badge/Linux-206A85?style=for-the-badge&logo=linux&logoColor=F7B189" alt="Linux" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Arduino-CA8090?style=for-the-badge&logo=arduino&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Arduino-6B6A84?style=for-the-badge&logo=arduino&logoColor=0B2436" /><img src="https://img.shields.io/badge/Arduino-CA8090?style=for-the-badge&logo=arduino&logoColor=F7B189" alt="Arduino" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Raspberry_Pi-0B2436?style=for-the-badge&logo=raspberrypi&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Raspberry_Pi-AE98A0?style=for-the-badge&logo=raspberrypi&logoColor=0B2436" /><img src="https://img.shields.io/badge/Raspberry_Pi-0B2436?style=for-the-badge&logo=raspberrypi&logoColor=F7B189" alt="Raspberry Pi" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/AWS-206A85?style=for-the-badge&logo=amazonaws&logoColor=F7B189" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/AWS-6B6A84?style=for-the-badge&logo=amazonaws&logoColor=0B2436" /><img src="https://img.shields.io/badge/AWS-206A85?style=for-the-badge&logo=amazonaws&logoColor=F7B189" alt="AWS" /></picture>
+</p>
+
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🔗_Connect_with_me-F7B189?style=flat" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🔗_Connect_with_me-CA8090?style=flat" /><img src="https://img.shields.io/badge/🔗_Connect_with_me-F7B189?style=flat" /></picture>
+
+<p>
+  <a href="https://github.com/samidare-co" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-0B2436?style=for-the-badge&logo=github&logoColor=F7B189" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-6B6A84?style=for-the-badge&logo=github&logoColor=0B2436" />
+      <img src="https://img.shields.io/badge/GitHub-0B2436?style=for-the-badge&logo=github&logoColor=F7B189" alt="GitHub" />
+    </picture>
+  </a>&nbsp;
+  <a href="http://samidare.co" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-206A85?style=for-the-badge&logo=safari&logoColor=F7B189" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-AE98A0?style=for-the-badge&logo=safari&logoColor=0B2436" />
+      <img src="https://img.shields.io/badge/Portfolio-206A85?style=for-the-badge&logo=safari&logoColor=F7B189" alt="Portfolio" />
+    </picture>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/sami-b-465a5b279/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-CA8090?style=for-the-badge&logo=linkedin&logoColor=F7B189" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-6B6A84?style=for-the-badge&logo=linkedin&logoColor=0B2436" />
+      <img src="https://img.shields.io/badge/LinkedIn-CA8090?style=for-the-badge&logo=linkedin&logoColor=F7B189" alt="LinkedIn" />
+    </picture>
+  </a>&nbsp;
+  <a href="mailto:samidare@tutanota.com" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-0B2436?style=for-the-badge&logo=gmail&logoColor=F7B189" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-AE98A0?style=for-the-badge&logo=gmail&logoColor=0B2436" />
+      <img src="https://img.shields.io/badge/Email-0B2436?style=for-the-badge&logo=gmail&logoColor=F7B189" alt="Email" />
+    </picture>
+  </a>
+</p>
+
+</td>
+<td width="40%" valign="top">
+
+<a href="https://app.daily.dev/samidare">
+  <img src="https://api.daily.dev/devcards/v2/SX8CjUxA8pu4HwA8pd9Re.png?type=default&r=wxr" width="100%" alt="Sami's Dev Card"/>
 </a>
-</p>
 
+</td>
+</tr>
+</table>
 
+---
 
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/💻_System_Information-206A85?style=flat" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/💻_System_Information-6B6A84?style=flat" /><img src="https://img.shields.io/badge/💻_System_Information-206A85?style=flat" /></picture>
 
-
+<table>
+<tr>
+	
 ```zsh
-> fastfetch
+> neofetch
 ```
+<td valign="top">
 
-<img align="left" src="images/30.png" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="280" /> 
+<img src="images/30.png" alt="Character" width="100%" />
+
+</td>
+<td valign="top">
 
 ```csharp
 samidare-co@github
 -------------------------
-OS: MacOS, Arch, Debian, Alpine, Fedora, Rocky, Windows\
-Ubuntu Touch, LineageOS, postmarketOS, e/OS, CalyxOS 
+OS: MacOS, Arch, Debian, Alpine, Fedora, Rocky, Windows
+    Ubuntu Touch, LineageOS, postmarketOS, e/OS, CalyxOS 
 WM: Hammerspoon, Hyprland, Niri, Sway, BSPWM, DKWM, Komorebi
 DE/Compositors: Quartz, Picom, Cosmic, KDE, Tmux
 Shell: zsh 5.9
 IP: 192.168.1.42/24
 Location: Paris, France
-Education: Sorbonne Universite, Universite de Paris, Helsinki University, EIDD
-Languages: JavaScript, TypeScript,
+Education: Sorbonne Universite, Universite de Paris, 
+          Helsinki University, EIDD
+Languages: JavaScript, TypeScript
 Learning: Rust, GraphQL, Simulink, Graph Databases (neo4j), Swift
-Interest: Botany, Coding, Electronics, Cybernetics (AI, Information Theory Telecommunications)
-Robotics, Science, Philosophy (Pythagoreanism, Stoicism, Taoism), Productivity and Automation.
-Hobbies: Sport, Anime, Board Games, Reading, and Language Learning. <br><br>
-Favorite Softwares: Anki, Neovim, Tmux, Obsidian, Yazi, tdf, ImageMagick, ffmpeg, MPV, Zeal 
-Davinci Resolve, AE, Photoshop, ripgrep, clipboard, scrcpy, Yomitan, SurfingKeys, Playwright
-Kanata, warpd, DBeaver, rsync, rclone, 7zip, Ghidra, Qemu, Double Commander, mise, chezmoi
+Interest: Botany, Coding, Electronics, Cybernetics 
+         (AI, Information Theory, Telecommunications), Robotics, 
+         Science, Philosophy (Pythagoreanism, Stoicism, Taoism), 
+         Productivity and Automation
+Hobbies: Sport, Anime, Board Games, Reading, Language Learning
+Favorite Softwares: Anki, Neovim, Tmux, Obsidian, Yazi, tdf, 
+                   ImageMagick, ffmpeg, MPV, Zeal, Davinci Resolve, 
+                   AE, Photoshop, ripgrep, clipboard, scrcpy, Yomitan, 
+                   SurfingKeys, Playwright, Kanata, warpd, DBeaver, 
+                   rsync, rclone, 7zip, Ghidra, Qemu, Double Commander, 
+                   mise, chezmoi
 ```
+
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+  <svg width="210" height="30" xmlns="http://www.w3.org/2000/svg">
+    <rect width="35" height="25" x="0" fill="#0B2436"/>
+    <rect width="35" height="25" x="35" fill="#206A85"/>
+    <rect width="35" height="25" x="70" fill="#6B6A84"/>
+    <rect width="35" height="25" x="105" fill="#AE98A0"/>
+    <rect width="35" height="25" x="140" fill="#CA8090"/>
+    <rect width="35" height="25" x="175" fill="#F7B189"/>
+  </svg>
 </p>
 
+</td>
+</tr>
+</table>
 
-**My GitHub Stats**
+---
 
- <img src="https://github-profile-trophy.vercel.app/?username=samidare-co&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/📊_GitHub_Stats-CA8090?style=flat" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/📊_GitHub_Stats-AE98A0?style=flat" /><img src="https://img.shields.io/badge/📊_GitHub_Stats-CA8090?style=flat" /></picture>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=samidare-co&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&title_color=F7B189&text_color=206A85&icon_color=CA8090" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=samidare-co&theme=flat&no-frame=true&no-bg=true&row=1&column=7&title_color=0B2436&text_color=6B6A84&icon_color=CA8090" />
+    <img src="https://github-profile-trophy.vercel.app/?username=samidare-co&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&title_color=F7B189&text_color=206A85&icon_color=CA8090" width="100%" alt="Trophy" />
+  </picture>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samidare-co&layout=compact)
+<br>
 
-<a href="http://www.github.com/samidare-co"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samidare-co&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samidare-co&layout=compact&theme=transparent&hide_border=true&title_color=F7B189&text_color=AE98A0&icon_color=CA8090&bg_color=0B2436&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samidare-co&layout=compact&theme=transparent&hide_border=true&title_color=0B2436&text_color=6B6A84&icon_color=CA8090&bg_color=ffffff&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samidare-co&layout=compact&theme=transparent&hide_border=true&title_color=F7B189&text_color=AE98A0&icon_color=CA8090&bg_color=0B2436&langs_count=8" height="180em" alt="Top Languages" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=samidare-co&theme=transparent&hide_border=true&ring=206A85&fire=CA8090&currStreakNum=F7B189&currStreakLabel=206A85&sideNums=F7B189&sideLabels=AE98A0&dates=6B6A84&background=0B2436" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=samidare-co&theme=transparent&hide_border=true&ring=206A85&fire=CA8090&currStreakNum=0B2436&currStreakLabel=206A85&sideNums=0B2436&sideLabels=6B6A84&dates=6B6A84&background=ffffff" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samidare-co&theme=transparent&hide_border=true&ring=206A85&fire=CA8090&currStreakNum=F7B189&currStreakLabel=206A85&sideNums=F7B189&sideLabels=AE98A0&dates=6B6A84&background=0B2436" height="180em" alt="GitHub Streak" />
+  </picture>
+</p>
 
+<br>
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=samidare-co&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=samidare-co&theme=dracula&hide_border=true&bg_color=eff1f5&color=4c4f69&title_color=8839ef&line=04a5e5&%0D%0Apoint=7287fd&area=true&area_color=04a5e5" />
-	  <img alt="github profile contributions Graph"    src="https://github-readme-activity-graph.vercel.app/graph?username=samidare-co&theme=nightowl&hide_border=true&bg_color=1e1e2e&color=cdd6f4&title_color=cba6f7&line=89dceb&point=b4befe&area=true&area_color=cdd6f4" />
-	</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=samidare-co&bg_color=0B2436&color=AE98A0&line=206A85&point=CA8090&area=true&area_color=6B6A84&title_color=F7B189&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=samidare-co&bg_color=ffffff&color=0B2436&line=206A85&point=CA8090&area=true&area_color=AE98A0&title_color=0B2436&hide_border=true" />
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=samidare-co&bg_color=0B2436&color=AE98A0&line=206A85&point=CA8090&area=true&area_color=6B6A84&title_color=F7B189&hide_border=true" width="100%" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Made_with_❤️_in-Paris-F7B189?style=for-the-badge" />
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Made_with_❤️_in-Paris-CA8090?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Made_with_❤️_in-Paris-F7B189?style=for-the-badge" alt="Made with love in Paris" />
+  </picture>
 </p>
