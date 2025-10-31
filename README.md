@@ -58,9 +58,9 @@ ACCENT_2:        #AE98A0  (Mauve)
 <td width="60%" valign="top">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=2000&color=F7B189&width=500&height=60&lines=Passionate+about+Embedded+Systems;Building+the+Future+with+Code;Welcome+to+my+GitHub!" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=2000&color=206A85&width=500&height=60&lines=Passionate+about+Embedded+Systems;Building+the+Future+with+Code;Welcome+to+my+GitHub!" />
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=2000&color=F7B189&width=500&height=60&lines=Passionate+about+Embedded+Systems;Building+the+Future+with+Code;Welcome+to+my+GitHub!" alt="Typing animation">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=2000&color=F7B189&width=500&height=60&lines=Learning+something+new+every+day;From+circuits+to+code;Tea%2C+code%2C+and+curiosity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=2000&color=206A85&width=500&height=60&lines=Learning+something+new+every+day;From+circuits+to+code;Tea%2C+code%2C+and+curiosity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=2000&color=F7B189&width=500&height=60&lines=Learning+something+new+every+day;From+circuits+to+code;Tea%2C+code%2C+and+curiosity" alt="Typing animation">
 </picture>
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🌳_About_Me-206A85?style=flat" /><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🌳_About_Me-206A85?style=flat" /><img src="https://img.shields.io/badge/🌳_About_Me-206A85?style=flat" /></picture>
@@ -141,7 +141,7 @@ Interest: Botany, Coding, Electronics, Cybernetics
          (AI, Information Theory, Telecommunications), Robotics, 
          Science, Philosophy (Pythagoreanism, Stoicism, Taoism), 
          Productivity and Automation
-Hobbies: Sport, Anime, Board Games, Reading, Language Learning
+Hobbies: Sport, Anime, Board Games, Tea, Reading, Language Learning
 ❤️ Languages: C++, TypeScript
 ❤️ Softwares: Anki, Neovim, Tmux, Obsidian, Yazi, tdf, 
               ImageMagick, ffmpeg, MPV, Zeal, Davinci Resolve, 
