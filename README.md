@@ -119,7 +119,7 @@ ACCENT_2:        #AE98A0  (Mauve)
 
 <td width="800" valign="top">
 
-<img src="images/15.png" alt="Character" width="600" height="500" />
+<img src="images/30.png" alt="Character" width="600" height="500" />
 
 </td>
 <td valign="top">
